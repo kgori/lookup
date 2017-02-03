@@ -1,0 +1,8 @@
+[package]
+name = "lookup"
+version = "0.1.1"
+authors = ["Kevin Gori <kcg25@cam.ac.uk>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+
